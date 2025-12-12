@@ -1,4 +1,4 @@
--- lua/plugins/rose-pine.lua
+--lua/plugins/colorscheme.lua
 return {
   "rose-pine/neovim",
 
@@ -15,3 +15,4 @@ return {
     vim.cmd("colorscheme rose-pine")
   end,
 }
+
